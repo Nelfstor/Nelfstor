@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nelfstor
-- 👀 I’m interested in C# developing. 
-- 🌱 I’m currently work in GameDev using Unity.
-- 💞️ I’m looking to collaborate on Music educational projects.
+- 👀 I'm a C# developer. 
+- 🌱 I’m currently work in FinTech.
+- Before that i worked in GameDev. 
+.
 - 📫 How to reach me: telegram: @nelfstor.
 
 <!---
